@@ -1,13 +1,10 @@
-# Ubs
+## Teste da empresa UBS.
 
-Teste de teste, empresa UBS.
-
-O sistema consiste em vender o estoque para os lojista, com o preço mais justo possível.
+O teste consiste em criar um sistema de venda de estoque para os lojista, com o preço mais justo possível. Para atingir este preço é feito um calculo de distribuição.
 
 ## Técnologias:
 
-O sistema foi desenvolvido na linguagem Java 8 versão web, utilizando também de Springboot, jpa, banco de dados H2, a
-aplicação está hospedada na plataforma Heroku. Seu endereço é https://app-ubs.herokuapp.com/.
+O sistema foi desenvolvido na linguagem Java 8 versão web, utilizando também de Springboot, jpa, banco de dados H2.
 
 ## Desenvolvido por:
 
@@ -17,4 +14,4 @@ Empresa: GFT
 
 Cargo: Desenvolvedor Java.
 
-GitHub: [Lincolntec (Alcino José Lincoln de Souza.) · GitHub](https://github.com/Lincolntec)
+GitHub: [Lincolntec (Alcino José Lincoln de Souza.) · GitHub](https://github.com/Lincolntec/product-distribution-web)
